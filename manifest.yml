@@ -1,8 +1,8 @@
 ---
 applications:
-- name: chatrobot
+- name: R 2017
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 4982306d-fb7e-40a8-87da-97dc5d9e97ae
-    CAR_SERVICE_HOST: mengyt.mybluemix.net
+    CONVERSATION_WORKSPACE_ID: 941b51da-510e-4e11-8607-12c9c462d288
+    CAR_SERVICE_HOST: R-2017.mybluemix.net
